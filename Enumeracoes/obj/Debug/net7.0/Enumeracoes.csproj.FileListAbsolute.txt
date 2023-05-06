@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\bin\Debug\net7.0\Enumeracoes.exe
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\bin\Debug\net7.0\Enumeracoes.deps.json
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\bin\Debug\net7.0\Enumeracoes.runtimeconfig.json
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\bin\Debug\net7.0\Enumeracoes.dll
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\bin\Debug\net7.0\Enumeracoes.pdb
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.dll
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\refint\Enumeracoes.dll
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.pdb
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\Enumeracoes.genruntimeconfig.cache
+C:\Users\Guilherme\Projetos\Enumeracoes\Enumeracoes\obj\Debug\net7.0\ref\Enumeracoes.dll
